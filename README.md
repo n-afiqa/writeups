@@ -8,6 +8,7 @@ Notes, solutions, and lessons learned from CTF challenges, security practice pla
 [![CTF Events](https://img.shields.io/badge/CTF-Events-6f42c1?style=for-the-badge)](ctf-events/README.md)
 [![picoCTF](https://img.shields.io/badge/picoCTF-Challenges-f28c28?style=for-the-badge)](practices/pico-ctf/README.md)
 [![CryptoHack](https://img.shields.io/badge/CryptoHack-Cryptography-1769aa?style=for-the-badge)](practices/crypto-hack/README.md)
+[![PortSwigger Web Security Academy](https://img.shields.io/badge/PortSwigger-Web_Security_Academy-ff6633?style=for-the-badge)](practices/port-swigger/README.md)
 
 </div>
 
