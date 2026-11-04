@@ -20,6 +20,37 @@ Notes, solutions, and lessons learned from CTF challenges, security practice pla
 | [CTF events](ctf-events/README.md) | Write-ups and participation notes from live competitions |
 
 
+## Repository Structure
+
+```text
+📁 writeups/
+├── 📄 README.md
+├── 📁 practices/
+│   ├── 📄 README.md
+│   ├── 📁 crypto-hack/
+│   │   └── 📁 general/
+│   ├── 📁 pico-ctf/
+│   │   ├── 📁 cyptography/
+│   │   ├── 📁 forensic/
+│   │   ├── 📁 general/
+│   │   └── 📁 reverse-engineering/
+│   ├── 📁 port-swigger/
+│   │   └── 📁 server-side/
+└── 📁 ctf-events/
+    ├── 📄 README.md
+    └── 📁 athena-ctf-2026/
+        ├── 📁 forensic/
+        └── 📁 infra/
+```
+
+## How to Use
+
+1. Choose [Practice challenges](practices/README.md) to browse platform write-ups, or [CTF events](ctf-events/README.md) to browse competition write-ups.
+2. Open a platform or event README to see its available categories and topics.
+3. Follow the links to a challenge README for its solution and notes.
+
+To explore a specific topic, use the folder tree above to navigate directly to its platform, category, or event.
+
 ## Author & Attribution
 
 Created and maintained by [@n-afiqa](https://github.com/n-afiqa).
