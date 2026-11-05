@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## StegoRSA
 
 ### Objective:
@@ -19,3 +21,9 @@ The flag was saved in `flag.txt`
 ### Lessons Learned:
 - RSA encryption uses a public–private key pair: the public key encrypts the message, while the private key decrypts it.
 - OpenSSL can use the recovered RSA private key to decrypt the encrypted file.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Lab: File Path Traversal, Simple Case
 
 ### Objective
@@ -60,3 +62,9 @@ Inspect the response. The contents of `/etc/passwd` are displayed in the respons
 ### CWE References
 
 - **CWE-22:** Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

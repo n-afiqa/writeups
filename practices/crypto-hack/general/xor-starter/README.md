@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## XOR Starter
 
 ### Objective
@@ -51,3 +53,9 @@ python3 new_string.py
 - Use `ord()` and `chr()` to convert between characters and integers.
 - Apply XOR directly to character values without converting the entire string into bytes.
 - Use `join()` to reconstruct the resulting string.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

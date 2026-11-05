@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Access Control
 
 Practical labs covering access control vulnerabilities and authorization weaknesses in web applications.
@@ -11,3 +13,9 @@ Practical labs covering access control vulnerabilities and authorization weaknes
 | [User Role Controlled by Request Parameter](user-role-controlled-by-request-parameter/README.md) | Privilege Escalation | Modifying client-controlled cookie parameter |
 | [User ID Controlled by Request Parameter with Unpredictable User IDs](user-id-controlled-by-request-parameter-with-unpredictable-user-ids/README.md) | IDOR | Manipulating user ID using an exposed GUID |
 | [User ID Controlled by Request Parameter with Password Disclosure](user-id-controlled-by-request-parameter-with-password-disclosure/README.md) | IDOR / Information Disclosure | Modifying user ID to access administrator credentials |
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

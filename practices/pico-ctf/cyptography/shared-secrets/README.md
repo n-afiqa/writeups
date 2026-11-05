@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Shared Secrets
 
 ### Objective:
@@ -17,3 +19,9 @@ Using this formula, I decrypted the message with a Python script. Running [`pyth
 
 ### Lessons Learned:
 Some challenges require a custom script to decrypt a message.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

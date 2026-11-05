@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Lab: Broken Brute-Force Protection, IP Block
 
 ### Objective
@@ -132,3 +134,9 @@ Log in using the identified credentials:
 
 - [CWE-307 – Improper Restriction of Excessive Authentication Attempts](https://cwe.mitre.org/data/definitions/307.html)
 - [CWE-799 – Improper Control of Interaction Frequency](https://cwe.mitre.org/data/definitions/799.html)
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Lab: OS Command Injection, Simple Case
 
 ### Objective
@@ -53,3 +55,9 @@ Inspect the response. The output reveals the current system user as `peter-fCa0q
 ### CWE References
 
 - **CWE-78:** Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

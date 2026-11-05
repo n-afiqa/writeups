@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Forensics
 
 Write-ups for challenges involving file analysis, metadata, steganography, and network traffic.
@@ -10,3 +12,9 @@ Write-ups for challenges involving file analysis, metadata, steganography, and n
 | [Information](information/README.md) | Metadata Analysis | Medium |
 | [Packets Primer](packets-primer/README.md) | Network Traffic Analysis | Medium |
 | [St3g0](st3g0/README.md) | Image Steganography | Medium |
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Authentication
 
 Practical labs covering authentication vulnerabilities, username enumeration, brute-force attacks, and weaknesses in login protection.
@@ -10,3 +12,9 @@ Practical labs covering authentication vulnerabilities, username enumeration, br
 | [2FA Simple Bypass](2fa-simple-bypass/README.md) | Two-Factor Authentication Bypass | Direct navigation to authenticated pages |
 | [Username Enumeration via Timing Responses](username-enumeration-via-timing-responses/README.md) | Timing-Based Username Enumeration | Pitchfork attack and `X-Forwarded-For` header manipulation |
 | [Broken Brute-Force Protection, IP Block](broken-brute-force-protection-ip-block/README.md) | Brute-Force Protection Bypass | Pitchfork attack and customized credentials list |
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

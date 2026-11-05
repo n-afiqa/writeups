@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 # Cryptography
 
 Write-ups for challenges involving encryption, decryption, hashing, and encoding.
@@ -14,3 +16,9 @@ Write-ups for challenges involving encryption, decryption, hashing, and encoding
 | [interencdec](interencdec/README.md)       | Base64 Decoding & Caesar Cipher | Easy       |
 | [Mod 26](mod-26/README.md)                 | ROT13                           | Easy       |
 | [13](13/README.md)                         | ROT13                           | Easy       |
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

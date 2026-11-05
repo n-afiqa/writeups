@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Packets Primer
 
 ### Objective:
@@ -15,3 +17,9 @@ After inspecting the packet's data section, I found the flag:
 
 ### Lessons Learned:
 Inspecting packet lengths can help identify unusual network traffic and uncover hidden data.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

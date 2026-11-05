@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Lab: Unprotected Admin Functionality with Unpredictable URL
 
 ### Objective
@@ -49,3 +51,9 @@ The administrative endpoint is accessible without proper authorization, allowing
 
 - [CWE-862 – Missing Authorization](https://cwe.mitre.org/data/definitions/862.html)
 - [CWE-284 – Improper Access Control](https://cwe.mitre.org/data/definitions/284.html)
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Favourite Byte
 
 ### Objective
@@ -51,3 +53,9 @@ A single byte contains 8 bits, giving it \(2^8 = 256\) possible values. Since th
 - Convert hexadecimal data into bytes before applying XOR.
 - Use brute force to test all possible single-byte keys.
 - Use a known plaintext prefix (`crypto{`) to identify the correct decryption result.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## information
 
 ### Objective:
@@ -11,3 +13,9 @@ After decoding the text with CyberChef, I recovered the flag:
 
 ### Lessons Learned:
 Image metadata can contain encoded data that reveals the flag when decoded.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

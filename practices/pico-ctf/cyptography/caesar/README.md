@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## caesar
 
 ### Objective:
@@ -16,3 +18,9 @@ I pasted the encoded text `jyvzzpunaolybipjvubsxjvqwk` into CyberChef and applie
 
 ### Lessons Learned:
 The challenge name *Caesar* suggested a Caesar cipher. Trying ROT13 was a reasonable first step because it is a common Caesar cipher variant that shifts letters by 13 positions.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

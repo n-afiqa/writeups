@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## hideme
 
 ### Objective:
@@ -14,3 +16,9 @@ Using `binwalk -Me flag.png`, I extracted the hidden files. Inspecting `secret/f
 
 ### Lessons Learned:
 File extensions can be misleading. Binwalk helps uncover embedded files, while ExifTool can reveal useful metadata.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

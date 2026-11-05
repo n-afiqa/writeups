@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 # CryptoHack
 
 Write-ups for cryptography challenges covering encoding, mathematical concepts, encryption algorithms, and cryptographic attacks. Solutions emphasize custom Python scripts and cryptographic libraries rather than relying on tools like CyberChef.
@@ -12,3 +14,9 @@ Write-ups for cryptography challenges covering encoding, mathematical concepts, 
 | [Public-Key Cryptography](public-key-cryptography/README.md) | RSA, Diffie–Hellman, and public-key systems |
 | [Elliptic Curves](elliptic-curves/README.md) | Elliptic-curve mathematics and cryptography |
 --->
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

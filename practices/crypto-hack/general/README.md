@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## General
 
 General challenges cover fundamental cryptography concepts, including data encoding, byte and integer conversions, and basic XOR operations using Python.
@@ -23,3 +25,9 @@ General challenges cover fundamental cryptography concepts, including data encod
 - XOR properties and key cancellation
 - Brute-force techniques
 - Python cryptographic utilities
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

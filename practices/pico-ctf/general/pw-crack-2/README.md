@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## PW Crack 2
 
 ### Objective:
@@ -29,3 +31,9 @@ I ran `python3 level2.py` and entered `4ec9` when prompted for the password to r
 ### Lessons Learned:
 - Python's `chr()` converts an integer code point into its corresponding character. Hexadecimal values can be used as input by prefixing them with `0x`.
 - Combining the characters returned by `chr()` reveals the password, demonstrating how source code can obfuscate a hardcoded password without actually encrypting it.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

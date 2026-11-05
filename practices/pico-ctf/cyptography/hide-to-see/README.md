@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## HideToSee
 
 ### Objective:
@@ -32,3 +34,9 @@ This decoded the text into the flag.
 ### Lessons Learned:
 - File metadata inspection may not reveal hidden data, so tools like Steghide can help identify embedded files. 
 - Stegseek can recover passphrases using a wordlist, and filenames or challenge names can provide useful hints about the cipher used to decode extracted content.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

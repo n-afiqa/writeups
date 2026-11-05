@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 # PortSwigger Web Security Academy
 
 Notes and write-ups from hands-on labs covering web application security, vulnerability analysis, and exploitation techniques.
@@ -52,3 +54,9 @@ Notes and write-ups from hands-on labs covering web application security, vulner
 | [Essential Skills](essential-skills/README.md) | Core techniques and tools for web security testing |
 
 -->
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

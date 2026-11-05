@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## hashcrack
 
 ### Objective:
@@ -30,3 +32,9 @@ After entering the third password into the Netcat terminal, the flag was reveale
 - Hashcat uses different mode numbers for different algorithms: `-m 0` for MD5, `-m 100` for SHA-1, and `-m 1400` for SHA-256.
 - Dictionary attacks use wordlists such as `rockyou.txt` to find passwords that match a given hash.
 - Hash cracking can involve multiple stages, where each recovered password unlocks the next hash until the flag is revealed.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

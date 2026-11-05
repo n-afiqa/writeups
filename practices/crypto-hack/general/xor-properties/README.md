@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## XOR Properties
 
 ### Objective
@@ -90,3 +92,9 @@ python3 decrypt.py
 - Rearrange XOR expressions to isolate unknown values.
 - Combine partially known keys to recover the original plaintext.
 - Use pwntools `xor()` to perform XOR operations on byte strings.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

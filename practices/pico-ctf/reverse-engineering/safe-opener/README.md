@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Safe Opener
 
 ### Objective:
@@ -14,3 +16,9 @@ The decoded password is the flag.
 
 ### Lessons Learned:
 Reading source code and identifying encoded hardcoded values can help uncover secrets in reverse engineering challenges.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

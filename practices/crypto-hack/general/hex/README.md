@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Hex
 
 ### Objective
@@ -35,3 +37,9 @@ python3 convert_hex_to_byte.py
 - Use `bytes.fromhex()` to decode hexadecimal strings into bytes.
 - Use `.hex()` to convert bytes back into hexadecimal.
 - Use `.decode()` to retrieve readable text from bytes.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

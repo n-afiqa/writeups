@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Hidden in Plain Sight
 
 ### Objective:
@@ -19,3 +21,9 @@ This extracted `flag.txt`, which contained the flag:
 ### Lessons Learned:
 - Encoded text may require multiple decoding steps.
 - Steghide can extract hidden data from images when the correct password is provided.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

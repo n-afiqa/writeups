@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## ASCII
 
 ### Objective
@@ -37,3 +39,9 @@ python3 convert.py
 - Use Python's `chr()` to convert integers into characters.
 - Use `ord()` to convert characters into their corresponding integer values.
 - Recognize that `chr()` and `ord()` are useful for encoding and decoding character representations.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

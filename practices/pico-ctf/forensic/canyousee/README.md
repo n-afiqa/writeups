@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## CanYouSee
 
 ### Objective:
@@ -14,3 +16,9 @@ I pasted the encoded text into CyberChef and used Magic to decode it, revealing 
 
 ### Lessons Learned:
 Hidden data may appear as encoded text rather than plain text. CyberChef's Magic tool helps identify and decode it quickly.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

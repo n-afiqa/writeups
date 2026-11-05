@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Lab: Web Shell Upload via Content-Type Restriction Bypass
 
 ### Objective
@@ -82,3 +84,9 @@ Inspect the response. The contents of Carlos's secret file are displayed in the 
 
 - **CWE-434:** Unrestricted Upload of File with Dangerous Type
 - **CWE-436:** Interpretation Conflict (if applicable to the validation mechanism)
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

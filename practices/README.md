@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Practice
 
 Write-ups for CTF challenges, vulnerable machines, hands-on labs, and cybersecurity exercises across different platforms.
@@ -12,3 +14,9 @@ Write-ups for CTF challenges, vulnerable machines, hands-on labs, and cybersecur
 | [Hack The Box](hack-the-box/README.md) | Machines and penetration testing | Upcoming |
 
 -->
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

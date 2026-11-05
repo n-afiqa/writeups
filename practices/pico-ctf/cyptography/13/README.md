@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## 13
 
 ### Objective:
@@ -12,3 +14,9 @@ Paste the encrypted text `npnqrzl{abg_gbb_onq_bs_n_ceboyrz}` into CyberChef and 
 
 ### Lessons Learned:
 The challenge hinted at ROT13, so recognising the hint helped identify the correct decoding method.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

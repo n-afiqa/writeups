@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Lab: Basic SSRF Against the Local Server
 
 ### Objective
@@ -69,3 +71,9 @@ Send the modified POST request. The server accesses the internal deletion endpoi
 ### CWE References
 
 - **CWE-918:** Server-Side Request Forgery (SSRF)
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

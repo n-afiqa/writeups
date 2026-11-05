@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Bytes and Big Integer
 
 ### Objective
@@ -45,3 +47,9 @@ python3 convert_int_to_string.py
 - Use `long_to_bytes()` to convert integers back into bytes.
 - Use `bytes_to_long()` to convert bytes into integers.
 - Recognize the relationship between integer and byte representations in cryptography.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

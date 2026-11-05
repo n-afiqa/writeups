@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## St3g0
 
 ### Objective:
@@ -12,3 +14,9 @@ I started by checking `academy.flag.png` with ExifTool, but the metadata reveale
 
 ### Lessons Learned:
 Tools like zsteg can uncover hidden data in image files that ordinary metadata inspection may miss.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

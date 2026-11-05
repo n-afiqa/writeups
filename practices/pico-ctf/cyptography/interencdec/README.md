@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## interendec
 
 ### Objective:
@@ -25,3 +27,9 @@ Since the decoded text was still unreadable, I tried ROT13. When the result did 
 ### Lessons Learned:
 - Cryptography challenges may involve multiple layers of encoding and encryption, requiring several decoding steps.
 - ROT ciphers can use different rotation amounts, so trying ROT13 alone may not be enough.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## PCAP Secret
 
 **Category:** Forensics  
@@ -23,3 +25,9 @@ I copied the token value into CyberChef and decoded it to reveal the flag.
 ### Lessons Learned
 - PCAP files can contain sensitive information hidden in network traffic.
 - HTTP headers may contain custom fields that expose tokens or secrets.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

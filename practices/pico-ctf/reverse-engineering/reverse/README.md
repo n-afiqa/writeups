@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Reverse
 
 ### Objective:
@@ -14,3 +16,9 @@ I then ran `strings ret` to search for readable text, which revealed the flag.
 
 ### Lessons Learned:
 The `strings` command can reveal useful information hidden in executable files.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

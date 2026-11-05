@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Net MITM TLS
 
 **Category:** Infra 
@@ -42,3 +44,9 @@ I kept the server running and waited for the background client to connect. Becau
 - Weak certificate validation can allow server impersonation.
 - Inspecting client scripts can reveal alternative ways to retrieve protected information.
 - Sensitive information can be exposed when a client trusts a forged certificate.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

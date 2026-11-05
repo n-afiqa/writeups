@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Mailroom Echo
 
 **Category:** Forensics  
@@ -20,3 +22,9 @@ A hidden token was found at the bottom of the message. I copied the token into C
 - Email files (`.eml`) may contain hidden information in their message content.
 - Encoded strings can be identified and decoded using CyberChef.
 - Basic file inspection is an effective first step in forensic analysis.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

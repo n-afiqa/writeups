@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## The Numbers
 
 ### Objective:
@@ -21,3 +23,9 @@ The result was `picoctf{thenumbersmason}`. Although it used the older `picoCTF` 
 ### Lessons Learned:
 - Inspecting an image visually can reveal clues that metadata and steganography tools may not find.
 - Number sequences between 1 and 26 can indicate an A1Z26 cipher.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

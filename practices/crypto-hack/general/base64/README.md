@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Base64
 
 ### Objective
@@ -40,3 +42,9 @@ Submit the output as the flag.
 - Use Python's `bytes.fromhex()` to convert hexadecimal data into bytes.
 - Use `base64.b64encode()` to encode binary data into Base64.
 - Recognize that Base64 is an encoding scheme, not encryption.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

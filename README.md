@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 <div align="center">
 
 # Cybersecurity Write-ups
@@ -9,6 +11,8 @@ Notes, solutions, and lessons learned from CTF challenges, security practice pla
 [![picoCTF](https://img.shields.io/badge/picoCTF-Challenges-f28c28?style=for-the-badge)](practices/pico-ctf/README.md)
 [![CryptoHack](https://img.shields.io/badge/CryptoHack-Cryptography-1769aa?style=for-the-badge)](practices/crypto-hack/README.md)
 [![PortSwigger Web Security Academy](https://img.shields.io/badge/PortSwigger-Web_Security_Academy-ff6633?style=for-the-badge)](practices/port-swigger/README.md)
+
+<p><em>Learn, practice, document, repeat.</em></p>
 
 </div>
 
@@ -63,8 +67,16 @@ If you find this repository useful, please consider:
 
 Please give proper credit when using or adapting the materials.
 
+
+
 ---
 
 <div align="center">
-<sub>Learn, practice, document, repeat.</sub>
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
 </div>

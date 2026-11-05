@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## rotation
 
 ### Objective:
@@ -15,3 +17,9 @@ Since the challenge title was `rotation`, I tried the ROT13 operation first, the
 ### Lessons Learned:
 - ROT ciphers can use different rotation amounts, not just 13.
 - Challenge titles can provide useful hints about the intended solution.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

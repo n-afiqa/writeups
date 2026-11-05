@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Lab: 2FA Simple Bypass
 
 ### Objective
@@ -43,3 +45,9 @@ The page reloads and grants access to the account without completing 2FA verific
 
 - [CWE-287 – Improper Authentication](https://cwe.mitre.org/data/definitions/287.html)
 - [CWE-306 – Missing Authentication for Critical Function](https://cwe.mitre.org/data/definitions/306.html)
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

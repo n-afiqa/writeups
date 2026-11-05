@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Lab: User ID Controlled by Request Parameter with Password Disclosure
 
 ### Objective
@@ -72,3 +74,9 @@ Additionally, the administrator's password is exposed in the account page's HTML
 - [CWE-639 – Authorization Bypass Through User-Controlled Key](https://cwe.mitre.org/data/definitions/639.html)
 - [CWE-862 – Missing Authorization](https://cwe.mitre.org/data/definitions/862.html)
 - [CWE-522 – Insufficiently Protected Credentials](https://cwe.mitre.org/data/definitions/522.html)
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

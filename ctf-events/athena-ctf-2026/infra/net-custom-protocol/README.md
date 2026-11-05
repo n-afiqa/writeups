@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Net Custom Protocol
 
 **Category:** Infra  
@@ -55,3 +57,9 @@ Instead of rejecting the request, the server returned memory contents containing
 - Fuzzing input fields helps identify unexpected server behavior.
 - Testing boundary values can expose validation flaws.
 - Improper length handling can lead to memory disclosure.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

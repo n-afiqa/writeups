@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Mod 26
 
 ### Objective:
@@ -14,3 +16,9 @@ I pasted the encoded text into CyberChef and applied ROT13 to decode the flag.
 
 ### Lessons Learned:
 Challenge descriptions can contain hints about the intended solution. Recognizing and interpreting these hints can help identify the correct decoding method faster.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Wave a Flag
 
 ### Objective:
@@ -14,3 +16,9 @@ I ran `exiftool warm` to inspect the file metadata. The file was identified as a
 ### Lessons Learned:
 - ELF files are executable binaries that can contain readable strings alongside machine code.
 - The `strings` command extracts printable text from binary files, which can reveal embedded flags or other useful information.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## Lab: Username Enumeration via Timing Responses
 
 ### Objective
@@ -152,3 +154,9 @@ Log in using the identified credentials:
 - [CWE-208 – Observable Timing Discrepancy](https://cwe.mitre.org/data/definitions/208.html)
 - [CWE-307 – Improper Restriction of Excessive Authentication Attempts](https://cwe.mitre.org/data/definitions/307.html)
 - [CWE-290 – Authentication Bypass by Spoofing](https://cwe.mitre.org/data/definitions/290.html)
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

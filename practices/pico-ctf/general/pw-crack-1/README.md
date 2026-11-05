@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 ## PW Crack 1
 
 ### Objective:
@@ -16,3 +18,9 @@ Based on the code, the correct password is `1e1a`. I ran `python3 level1.py` and
 
 ### Lessons Learned:
 - Reading source code helps identify hardcoded passwords and understand how a program validates user input.
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>

@@ -1,3 +1,5 @@
+<!-- WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREkwZEZsWFduQmpWMFYyWkROS2NHUkhWakZqU0UwOQ== -->
+
 # Athena CTF 2026
 
 This folder contains write-ups for the challenges I solved during the competition.
@@ -17,3 +19,9 @@ This folder contains write-ups for the challenges I solved during the competitio
 | [PCAP Secret](forensic/pcap-secret/README.md) | Forensics | Easy |
 | [Net MITM TLS](infra/net-mitm-tls/README.md) | Infra | Easy |
 | [Net Custom Protocol](infra/net-custom-protocol/README.md) | Infra | Easy |
+
+---
+
+<div align="center">
+  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
+</div>
