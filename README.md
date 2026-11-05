@@ -74,9 +74,3 @@ Please give proper credit when using or adapting the materials.
 <div align="center">
   <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
 </div>
-
----
-
-<div align="center">
-  <sub> Created by <a href="https://github.com/n-afiqa/">@n-afiqa</a> · © 2026.</sub>
-</div>
