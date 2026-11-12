@@ -8,6 +8,7 @@ Write-ups and participation records of CTF competitions
 |---|---|---|
 | [Athena CTF 2026](athena-ctf-2026/README.md) | 18–19 July 2026 | 24-hour Jeopardy CTF |
 | TCM CTF @ Noob Village (DEF CON 34) | 6–11 August 2026 | Public write-up restricted |
+| [HI Cyber Con 2026 CTF](hi-cyber-con-2026/README.md) | 30 - 31 Oct 2026 | 48-hour Jeopardy CTF |
 
 ---
 
